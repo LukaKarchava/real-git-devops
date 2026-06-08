@@ -17,3 +17,6 @@ user_group_challenge.sh
 
 # Ignore local sandbox development directories
 MyProject/
+personal/
+davaleba1/
+backups/
