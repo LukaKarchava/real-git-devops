@@ -1,1 +1,19 @@
+# ==========================================
+# DevOps Learning Repository - Git Ignore Rules
+# ==========================================
+
+# Ignore loose assignment notes and documentation
 assignment12.md
+assignment_git.md
+
+# Ignore local AI chat and research histories
+chatgpt-history.md
+claudehistory.md
+
+# Ignore local administrative and backup test scripts
+cleanup_system.sh
+cron_backup.sh
+user_group_challenge.sh
+
+# Ignore local sandbox development directories
+MyProject/
